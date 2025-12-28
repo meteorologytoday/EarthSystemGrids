@@ -1,0 +1,8 @@
+*.tmp
+*.swp
+*.pyc
+__pycache__
+.ipynb_checkpoints
+*.DS_Store
+*.egg-info
+*.nc
